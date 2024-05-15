@@ -1,0 +1,38 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+}
+.top-section {
+    background-color: rgb(13, 13, 66);
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-content: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+p {
+    font-weight: lighter;
+}
+
+.top-button {
+    width: 135px;
+    background-color: rgb(68, 250, 150);
+    border-radius: 25px;
+    border: none;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.smart-section {
+    align-content: center;
+}
+h2 {
+    color: black;
+}
